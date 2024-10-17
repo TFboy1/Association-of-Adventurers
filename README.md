@@ -37,10 +37,11 @@
 剩下的委托还在施工。。。。
 
 
-接取委托的方式是
+## 接取委托的方式
 
 1. 点击本页面的issues
 2. 点击new issue
 ![1729045462970](https://github.com/user-attachments/assets/624af5fa-a865-4169-9eca-904716fc458f)
 3. 发布issue 点击submit new issue 
-![1729045549672](https://github.com/user-attachments/assets/d4bd3120-351b-45aa-8a1d-47f9279331ba)
+![1729152308872](https://github.com/user-attachments/assets/8ad65097-effb-4629-a6c5-5ee5efd99c10)
+
