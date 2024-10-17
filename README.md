@@ -79,6 +79,9 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 ![image](https://github.com/user-attachments/assets/7b58a993-3a49-4286-a64a-dcc6b4807f67)
 
 6. 提交代码,点击commit 
+![image](https://github.com/user-attachments/assets/a347bc09-5dbb-4e85-a99a-b91f1e6b2a7f)
+
+
 7. 推送分支,点击push origin,在右上角
 8. 新建 Pull Request
 9. 等待管理员审核
