@@ -83,10 +83,15 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 
 
 7. 推送分支,点击push origin,在右上角
+
 8. 新建 Pull Request
+
 9. 等待管理员审核
-以上这些请仔细阅读教程之后操作
-https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
+
+  
+
+  以上这些请仔细阅读教程之后操作
+  https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 
 
 
