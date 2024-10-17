@@ -48,3 +48,15 @@
 3. 发布issue 点击submit new issue 
 ![1729152308872](https://github.com/user-attachments/assets/8ad65097-effb-4629-a6c5-5ee5efd99c10)
 
+## 提交委托的方式
+1.点击本页面的fork
+![image](https://github.com/user-attachments/assets/f81f4fe8-a9d8-4606-8270-71902936c0d4)
+
+2.点绿色的
+![1729153749764](https://github.com/user-attachments/assets/d0a4933b-68d7-4a0c-873f-7625259dabb4)
+
+3. 去查看新手教程，下载github desktop，然后将自己完成的委托放在对应的文件夹，然后 pull request
+   https://github.com/TFboy1/Time_Courtyard
+   ![image](https://github.com/user-attachments/assets/dc04fd98-4bb4-4516-8ddc-eaa422ebb979)
+
+
