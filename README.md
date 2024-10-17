@@ -86,7 +86,7 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 ![1729154602147](https://github.com/user-attachments/assets/50598750-ce48-4170-a99e-9d7b97663abc)
 
 8. 新建 Pull Request
-
+此时会有一个框框跳出来，应该很容易就看见了，点他，一路同意就行
 9. 等待管理员审核
 
   
