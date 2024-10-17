@@ -83,6 +83,7 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 
 
 7. 推送分支,点击push origin,在右上角
+![1729154602147](https://github.com/user-attachments/assets/50598750-ce48-4170-a99e-9d7b97663abc)
 
 8. 新建 Pull Request
 
