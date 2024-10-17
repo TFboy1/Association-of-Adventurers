@@ -68,7 +68,8 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 3. 点击clone项目，选择Association-of-Adventurers
 
 ![image](https://github.com/user-attachments/assets/21833c35-4586-4abd-90c9-4b0d33597ce0)
-![image](https://github.com/user-attachments/assets/c6480a71-350a-4773-ad47-cd8c332a34fb)
+![image](https://github.com/user-attachments/assets/beb9468c-4dac-4a4b-ad11-d16e9ba6313a)
+
 
 4.  点击show in explorer ，将完成的委托放入文件夹中
 
