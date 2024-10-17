@@ -55,10 +55,34 @@
 2.点绿色的
 ![1729153749764](https://github.com/user-attachments/assets/d0a4933b-68d7-4a0c-873f-7625259dabb4)
 
-3. 去查看新手教程，下载github desktop，然后将自己完成的委托放在对应的文件夹，然后 pull request
-   https://github.com/TFboy1/Time_Courtyard
-注意在 github desktop上 clone的名称是Association-of-Adventurers
-别把名字搞错了
-   ![image](https://github.com/user-attachments/assets/dc04fd98-4bb4-4516-8ddc-eaa422ebb979)
+3. 提交委托
+首先下载一个github desktop
+https://desktop.github.com/download/
+
+这是它的教程:
+https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
+
+请严格按照步骤行事:
+1. 打开 https://github.com/TFboy1/Association-of-Adventurers 点击Fork
+2. 打开github desktop
+3. 点击clone项目，选择Association-of-Adventurers
+
+![image](https://github.com/user-attachments/assets/21833c35-4586-4abd-90c9-4b0d33597ce0)
+![image](https://github.com/user-attachments/assets/c6480a71-350a-4773-ad47-cd8c332a34fb)
+
+4.  点击show in explorer ，将完成的委托放入文件夹中
+
+![image](https://github.com/user-attachments/assets/659f7883-5514-4582-995f-69d926c7a16e)
+
+5. 点击current branch，点击new branch，输入你的分支名称，例如tfboy
+![image](https://github.com/user-attachments/assets/7b58a993-3a49-4286-a64a-dcc6b4807f67)
+
+6. 提交代码,点击commit 
+7. 推送分支,点击push origin,在右上角
+8. 新建 Pull Request
+9. 等待管理员审核
+以上这些请仔细阅读教程之后操作
+https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
+
 
 
