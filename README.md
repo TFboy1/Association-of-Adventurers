@@ -57,6 +57,8 @@
 
 3. 去查看新手教程，下载github desktop，然后将自己完成的委托放在对应的文件夹，然后 pull request
    https://github.com/TFboy1/Time_Courtyard
+注意在 github desktop上 clone的名称是Association-of-Adventurers
+别把名字搞错了
    ![image](https://github.com/user-attachments/assets/dc04fd98-4bb4-4516-8ddc-eaa422ebb979)
 
 
